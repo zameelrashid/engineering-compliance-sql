@@ -3,14 +3,12 @@
 A small SQL project built around a fictional "engineering compliance"
 database — engineers, training records, and project allocations — designed
 to demonstrate core SQL concepts with realistic, messy data (i.e. not every
-engineer has completed every training, which is the point).
+engineer has completed every training).
 
 ## Why this project
 
 I built this to sharpen my SQL fundamentals, particularly JOIN behaviour
-and how NULLs work — the kind of thing that's easy to get wrong under
-interview pressure but matters a lot in real compliance/reporting work
-(this schema is loosely inspired by the kind of compliance reporting I
+and how NULLs work (this is inspired by the sort of compliance reporting I
 built at Siemens Energy using Alteryx).
 
 ## Files
